@@ -10,21 +10,18 @@
 ############################
 
 # Name of website
-title: My website
+title: Moctar Mamadou BA
 
 # Your name to show in the footer
-author: Some Person
+author: Moctar Mamadou BA
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Blog: "index.html"
+  A propos de moi: "aboutme"
 
 ################
 # --- Logo --- #
@@ -50,17 +47,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "bmaxtar@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
-#  medium: yourname
+  # facebook: deanattali
+  github: bmaxtar
+  twitter: maxtar_ov
+  # patreon: DeanAttali
+  # youtube: "@daattali"
+  # whatsapp: +221766481055
+ medium: Mamadou Moctar BA
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+ linkedin: Moctar Mamadou
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -86,7 +83,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: 🚀 Passionate Developer I thrive in both web and mobile environments, crafting interactive user experiences and robust APIs.
 
 ###########################
 # --- General options --- #
@@ -102,7 +99,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "bmaxtar.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
